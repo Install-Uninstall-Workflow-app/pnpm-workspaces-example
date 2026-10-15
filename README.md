@@ -14,6 +14,7 @@ pnpm install
 
 Add dependency to root dir with `-w` flag
 
+
 ```
 pnpm add lodash -w -D
 ```
